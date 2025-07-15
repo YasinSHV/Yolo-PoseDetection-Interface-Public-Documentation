@@ -270,7 +270,7 @@ public event Action<Texture2D> OnFrameReady;
 
 **Available for $12.99**
 
-[![Itch.io](https://img.shields.io/badge/itch.io-Buy%20Now-red?style=for-the-badge&logo=itch.io)]([https://itch.io](https://mrfreshey.itch.io/yolo-pose-detection-interface))
+[![Itch.io](https://img.shields.io/badge/itch.io-Buy%20Now-red?style=for-the-badge&logo=itch.io)]([[https://itch.io](https://mrfreshey.itch.io/yolo-pose-detection-interface)](https://mrfreshey.itch.io/yolo-pose-detection-interface))
 [![Unity Asset Store](https://img.shields.io/badge/Unity%20Asset%20Store-Coming%20Soon-blue?style=for-the-badge&logo=unity)](https://assetstore.unity.com)
 
 *Full commercial license, source code, and models included with purchase*
