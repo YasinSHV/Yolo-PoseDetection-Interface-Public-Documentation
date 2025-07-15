@@ -9,9 +9,9 @@
 
 **A comprehensive Unity package for real-time human pose detection using YOLO models**
 
-[🚀 Quick Start](#quick-start) • [📺 Tutorials](https://www.youtube.com/mrfreshey) • [💾 Download](#purchase-and-downloads)
+[🚀 Quick Start](#quick-start) • [📺 Tutorials]([https://www.youtube.com/mrfreshey](https://www.youtube.com/channel/UC9FKvqtv8ye6HYoKBRTCeUw)) • [💾 Download](#purchase-and-downloads)
 
-![Demo GIF](https://via.placeholder.com/600x300/2E86C1/FFFFFF?text=YOLO+Pose+Detection+Demo)
+![Demo GIF]([https://via.placeholder.com/600x300/2E86C1/FFFFFF?text=YOLO+Pose+Detection+Demo](https://img.itch.zone/aW1hZ2UvMzcyMjAxNy8yMjE1NjM5MS5naWY=/original/CGDRxb.gif))
 
 </div>
 
