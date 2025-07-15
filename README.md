@@ -11,7 +11,8 @@
 
 [🚀 Quick Start](#quick-start) • [📺 Tutorials]([https://www.youtube.com/mrfreshey](https://www.youtube.com/channel/UC9FKvqtv8ye6HYoKBRTCeUw)) • [💾 Download](#purchase-and-downloads)
 
-![Demo GIF]([https://img.itch.zone/aW1hZ2UvMzcyMjAxNy8yMjE1NjM5MS5naWY=/original/CGDRxb.gif])
+![demo](https://github.com/user-attachments/assets/008341ac-ae8e-49df-8658-50366dcc2fc4)
+
 
 </div>
 
